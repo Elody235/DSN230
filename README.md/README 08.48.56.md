@@ -1,0 +1,2 @@
+# Introduction 
+Je suis étudiante en design UX à l'École de technologie supérieure (ÉTS). Je m'intéresse particulièrement à la psychologie et à la sociologie, ainsi qu'à la compréhension des besoins et des comportements des utilisateurs. J'aime concevoir des solutions durables et adapter au besoin des utilisateurs, les processus de création d'une solution et tester des idées afin d'améliorer l'expérience des utilisateurs. 
