@@ -1,0 +1,2 @@
+Dans ce cours, j'ai pu en apprendre davantage sur le fonctionnement d'une pompe à l'air lorsqu'il est programmer avec du code. Avec les mêmes coéquipiers, nous sommes partie sur l'idée de faire une fleur qui s'enroule sur elle-même lorsqu'elle se remplie d'air. Notre idée a fonctionné malgré le fait que nous aurions peut-être dû prendre plus long de sac en plastique pour qu'il puisse s'enrouler davantage sur lui-même. 
+
